@@ -48,3 +48,36 @@ The model learns the best ordering strategy to minimize:
 ```bash
 pip install numpy matplotlib
 jupyter notebook
+
+
+
+---
+
+# ✅ STEP 3: Save Changes
+
+Scroll down 👇  
+👉 Click **Commit changes**
+
+---
+
+# 📤 NEXT STEP (VERY IMPORTANT)
+
+After this:
+
+👉 Go back to **Code tab**  
+👉 Click **+ → Upload files**
+
+Upload:
+- Your `.ipynb` file  
+- Graph images  
+
+---
+
+# 🎯 AFTER THAT
+
+Send me:
+👉 “README DONE”
+
+I’ll guide you next:
+✅ Adding images inside README  
+✅ Making your project look **top-level professional** 🚀
